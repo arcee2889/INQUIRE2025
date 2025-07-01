@@ -1,0 +1,6 @@
+body { font-family: Arial, sans-serif; line-height: 1.6; margin: 0; padding: 0; }
+header, nav, section, footer { padding: 20px; }
+nav a { margin-right: 15px; text-decoration: none; }
+#hero img { width: 100%; height: auto; }
+table { width: 100%; border-collapse: collapse; }
+table th, table td { padding: 10px; border: 1px solid #ddd; }
